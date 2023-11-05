@@ -11,7 +11,7 @@ I have always needed to find free time first. Coding is spread over almost 2 yea
 at this point I am working to complete and clean up IF1 lowering, for example introduce port classes
 as described in the IF1 manual.
 
-There look to be atleast one or two reduce-reduce conflicts in the parser.
+There look to be at least one or two reduce-reduce conflicts in the parser.
 
 Going forward, I would mainly first try to imitate ideas already attempted by the pioneers here.
 
@@ -30,7 +30,7 @@ ideas for higher order functions, partial application etc. etc. etc. etc.
 My code is written in Ocaml. I could to a reasonable degree use Ocaml's lexer/parser kit
 and one thing lead to another and we are stuck with it.
 I haven't given much thought to the compiler's performance at this time. I have avoided
-using references or hashtables etc at this time.
+using references or hash-tables etc at this time.
 
 I also support displaying with Graphviz- this gave a huge improvement to my productivity.
 From any point in the code-base, you may attempt to invoke a dot dump by using
@@ -68,7 +68,7 @@ ocamlify      0.0.1       Include files in OCaml code
 ocamlmod      0.0.9       Generate OCaml modules from source files
 result        1.3         Compatibility Result module
 tuareg        2.2.0       OCaml mode for GNU Emacs and XEmacs.
-yojson        1.7.0       Yojson is an optimized parsing and printing library for the JSON format
+yojson        1.7.0       Yojson is an optimised parsing and printing library for the JSON format
 
 
 
